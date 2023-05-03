@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guilherme Azevedo!
 - 👀 I’m interested in learn new technologies and improve myself as a developer.
-- 🌱 I’m currently learning Elixir and Phoenix Framework.
+- 🌱 I’m currently learning TypeScript and NestJS.
 - 💞️ I’m looking to collaborate on open source projects.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azevedoguigo&theme=tokyonight&layout=compact)
