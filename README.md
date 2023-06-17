@@ -1,7 +1,13 @@
-- 👋 Hi, I’m Guilherme Azevedo!
-- 👀 I’m interested in learn new technologies and improve myself as a developer.
-- 🌱 I’m currently learning TypeScript and NestJS.
-- 💞️ I’m looking to collaborate on open source projects.
+## Olá, meu nome é Guilherme, sou desenvolvedor full stack e sou aluno de Sistemas de Informação na Universidade Estácio de Sá.
+
+#### Um pouco mais sobre mim...
+```elixir
+user = %{
+  name: "Guilherme Azevedo Dos Santos",
+  programming_languages: ["Elixir", "C#", "JavaScript", "TypeScript", "HTML", "CSS"],
+  tools: ["Phoenix Framework", "Asp.Net Core", "React", "React Native", "NextJS", "Tailwind CSS"]
+}
+```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azevedoguigo&theme=tokyonight&layout=compact)
 <!---
