@@ -1,4 +1,4 @@
-## Olá! Meu nome é Guilherme, sou desenvolvedor full stack e sou aluno de Sistemas de Informação na Universidade Estácio de Sá.
+## Olá! Meu nome é Guilherme, sou desenvolvedor full stack e aluno de Sistemas de Informação na Universidade Estácio de Sá.
 
 #### Um pouco mais sobre mim...
 ```elixir
