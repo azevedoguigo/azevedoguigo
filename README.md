@@ -4,8 +4,9 @@
 ```elixir
 user = %{
   name: "Guilherme Azevedo Dos Santos",
-  programming_languages: ["Elixir", "Go", "TypeScript"],
-  tools: ["Phoenix Framework", "React", "Tailwind CSS"]
+  programming_languages: ["Go", "Elixir", "TypeScript"],
+  databases: ["MySQL", "PostgreSQL", "MongoDB"],
+  tools: ["Chi", "Gin", "Phoenix Framework", "React", "Tailwind CSS", "Docker", "Git", "GitHub"]
 }
 ```
 
